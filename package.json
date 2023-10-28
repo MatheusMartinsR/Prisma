@@ -1,0 +1,12 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "description": "Codes that i am using to learn about prisma and to improve even more my knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
